@@ -188,22 +188,4 @@ Pull Requests are welcome!
 
 **Author:** Shaik Mohammad Shoaib
 **GitHub:** [https://github.com/mohammadshoaib8](https://github.com/mohammadshoaib8)
-
----
-
-```
-
----
-
-# 🎉 Your README is ready!
-
-If you want, I can also create:
-
-✅ GitHub project badges (build passing, docker size, stars)  
-✅ Architecture diagram  
-✅ Folder structure SVG image  
-✅ Pipeline flow diagram  
-🔥 A full GitHub Wiki for this project  
-
-Just tell me!
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadshoaib8)
