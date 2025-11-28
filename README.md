@@ -169,21 +169,6 @@ http://<your-server-ip>:8000
 
 ---
 
-# 💡 Future Enhancements
-
-* Deploy using Kubernetes + Helm
-* Add CSS & JS for better UI
-* Add automated testing
-* Blue-Green or Rolling deployments
-
----
-
-# 🙌 Contributions
-
-Pull Requests are welcome!
-
----
-
 # 📧 Contact
 
 **Author:** Shaik Mohammad Shoaib
